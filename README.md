@@ -1,4 +1,4 @@
-# LLM Code Conversion
+# LLM Code Conversion and Validation
 
 A versatile framework for automated code conversion using Large Language Models (LLMs). While this implementation demonstrates Ab Initio XFR to PySpark conversion, the framework is designed to handle various code conversion scenarios:
 
@@ -12,7 +12,7 @@ This repository containsa collection of notebooks and tools for converting Ab In
 
 ## Repository Structure
 
-### 1. AI Foundry Agents Code Conversion Validation
+### 1. AI Foundry Agents Code Conversion and Validation
 Location: `/ai-foundry-agents-code-coversion-validation`
 
 Contains:
@@ -22,7 +22,7 @@ Contains:
   - Validates the generated code using Pandas
   - Outputs fully validated PySpark scripts
 
-### 2. LLMs Code Conversion Validation
+### 2. LLMs Code Conversion and Validation
 Location: `/llms-code-conversion-validation`
 
 Contains:
