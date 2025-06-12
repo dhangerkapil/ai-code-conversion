@@ -57,7 +57,7 @@ Contains:
 ## Features
 
 - **Multi-Environment Support**: Solutions for Azure AI Foundry, Azure OpenAI, and Microsoft Fabric
-- **Automated Code Conversion**: Convert Ab Initio XFR to PySpark automatically
+- **Automated Code Conversion**: Example code conversion sample to convert Ab Initio XFR to PySpark automatically
 - **Code Validation**: Built-in validation of generated code
 - **Best Practices**: Implements PySpark best practices and optimizations
 - **Documentation**: Detailed inline comments and explanations
