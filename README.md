@@ -26,7 +26,7 @@ Contains:
 Location: `/llms-code-conversion-validation`
 
 Contains:
-- `code_conversion.ipynb`: Implements an Azure OpenAI service-based code conversion agent that:
+- `code_conversion.ipynb`: Implements an Azure OpenAI service-based code conversion that:
   - Reads XFR files and schema layouts
   - Generates PySpark transformation code
   - Performs code review and optimization
