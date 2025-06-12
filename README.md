@@ -6,7 +6,7 @@
 > - Modernizing enterprise applications
 > - Transforming domain-specific languages to general-purpose languages
 
-This repository contains a collection of notebooks and tools for converting Ab Initio XFR code to PySpark using Large Language Models (LLMs). The project demonstrates code conversion capabilities across different environments including Azure OpenAI, Azure AI Foundry, and Microsoft Fabric.
+This repository contains a collection of notebooks and tools for converting Ab Initio XFR code to PySpark using Large Language Models (LLMs). The project demonstrates code conversion capabilities across different innovations including **Azure OpenAI, Azure AI Foundry Agents, and Microsoft Fabric**.
 
 ## Repository Structure
 
