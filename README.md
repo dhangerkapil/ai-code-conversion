@@ -8,7 +8,17 @@ A versatile framework for automated code conversion using Large Language Models 
 - Domain-specific language transformation (SQL → SparkSQL, ETL → DataFlow)
 - Framework migrations (Spring → Quarkus, Angular.js → React)
 
-This repository containsa collection of notebooks and tools for converting Ab Initio XFR code to PySpark using Large Language Models (LLMs). The project demonstrates code conversion capabilities across different innovations including **Azure OpenAI, Azure AI Foundry Agents, and Microsoft Fabric**.
+This repository contains a collection of notebooks and tools for converting Ab Initio XFR code to PySpark using Large Language Models (LLMs). The project demonstrates code conversion capabilities across different innovations including **Azure OpenAI, Azure AI Foundry Agents, and Microsoft Fabric**.
+
+**Implementation Options:**
+- **Local Development**: Run the code conversion process on your local machine
+- **Microsoft Fabric**: Use the ready-to-run notebook in the Microsoft Fabric environment
+- **Direct API Integration**: Choose between:
+  - **Azure OpenAI Service**: Direct integration with reasoning models
+  - **Azure AI Foundry Agents**: Enhanced validation with end-to-end Pandas testing
+  - **Microsoft Fabric Notebook**: Streamlined execution with AOAI integration
+
+**Note**: The AI Foundry Agent implementation includes additional validation steps using Pandas to ensure comprehensive end-to-end testing and complete code coverage.
 
 ## Repository Structure
 
