@@ -1,12 +1,14 @@
 # LLM Code Conversion
 
-> **🔥 Highlight**: While this project specifically demonstrates Ab Initio XFR to PySpark conversion, the framework and approach can be adapted for **any code conversion scenario**, including:
-> - Converting legacy code to modern programming languages
-> - Migrating between different programming languages
-> - Modernizing enterprise applications
-> - Transforming domain-specific languages to general-purpose languages
+A versatile framework for automated code conversion using Large Language Models (LLMs). While this implementation demonstrates Ab Initio XFR to PySpark conversion, the framework is designed to handle various code conversion scenarios:
 
-This repository contains a collection of notebooks and tools for converting Ab Initio XFR code to PySpark using Large Language Models (LLMs). The project demonstrates code conversion capabilities across different innovations including **Azure OpenAI, Azure AI Foundry Agents, and Microsoft Fabric**.
+- Legacy code modernization (COBOL → Java, Mainframe → Cloud)
+- Cross-language migration (Java → Python, C++ → Rust)
+- Enterprise application modernization (Monolith → Microservices)
+- Domain-specific language transformation (SQL → SparkSQL, ETL → DataFlow)
+- Framework migrations (Spring → Quarkus, Angular.js → React)
+
+This repository containsa collection of notebooks and tools for converting Ab Initio XFR code to PySpark using Large Language Models (LLMs). The project demonstrates code conversion capabilities across different innovations including **Azure OpenAI, Azure AI Foundry Agents, and Microsoft Fabric**.
 
 ## Repository Structure
 
