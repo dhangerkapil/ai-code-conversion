@@ -47,10 +47,10 @@ Contains:
 - **Best Practices**: Implements PySpark best practices and optimizations
 - **Documentation**: Detailed inline comments and explanations
 - **Extensible Framework**: 
-  - 🔄 Adaptable for any source and target programming languages
-  - 🎯 Customizable validation rules for different languages
-  - 🧩 Modular design for adding new conversion patterns
-  - 📚 Reusable components for various migration scenarios
+  - 🔄 **Adaptable for any source and target programming languages**
+  - 🎯 **Customizable validation rules for different languages**
+  - 🧩 **Modular design for adding new conversion patterns**
+  - 📚 **Reusable components for various migration scenarios**
 
 ## Getting Started
 
