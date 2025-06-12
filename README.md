@@ -5,7 +5,7 @@ A versatile framework for automated code conversion using Large Language Models 
 - Legacy code modernization (COBOL → Java, Mainframe → Cloud)
 - Cross-language migration (Java → Python, C++ → Rust)
 - Enterprise application modernization (Monolith → Microservices)
-- Domain-specific language transformation (SQL → SparkSQL, ETL → DataFlow)
+- Domain-specific language transformation (SQL → SparkSQL)
 - Framework migrations (Spring → Quarkus, Angular.js → React)
 
 This repository contains a collection of notebooks and tools for converting Ab Initio XFR code to PySpark using Large Language Models (LLMs). The project demonstrates code conversion capabilities across different innovations including **Azure OpenAI, Azure AI Foundry Agents, and Microsoft Fabric**.
